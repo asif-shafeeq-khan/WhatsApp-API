@@ -1,3 +1,2 @@
-# [Sample App] Node.js Integration with WhatsApp Business API 
+#Sample API from Meta to practice and use as building block
 
-A sample app that shows how to use WhatsApp API with Node.js.
